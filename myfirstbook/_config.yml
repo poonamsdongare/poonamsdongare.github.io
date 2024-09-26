@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Pankaj Kalan
+title: Poonam Dongare
 # author: The Jupyter Book Community
-logo: dp1.png
+#logo: dp1.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
