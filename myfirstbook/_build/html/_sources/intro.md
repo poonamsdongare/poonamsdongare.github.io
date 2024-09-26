@@ -1,7 +1,7 @@
 # About me
-* Name: Pankaj Kalan
-* Email: pankajkalan@gmail.com
-* LinkedIn: <a href="https://www.linkedin.com/in/pankajkalan/">pankajkalan</a><br><br>
+* Name: Poonam Dongare
+* Email: poonamsdongare04@gmail.com
+* LinkedIn: <a href="https://www.linkedin.com/in/poonam-dongare/">poonamdongare</a><br><br>
 
 **Education:**
 * Master of Science in Computer Science from <a href="https://www.cc.gatech.edu/news/graduate-computer-science-programs-climb-latest-national-rankings">Georgia Tech</a></b> with a specialization in Machine Learning.
@@ -9,7 +9,6 @@
 
 **Work Experience:**
 * Technical Specialist at <a href="https://www.cummins.com/">Cummins Inc</a>
-* Program Development Leader and Systems Engineer at <a href="https://www.faurecia.com/en">Faurecia</a>.<br><br>
 
 **Machine Learning Experience:**
 * Data Collection and Analysis: Gathered extensive time-series datasets from the Electronic Control Module (ECM) on semi-truck fleets.
